@@ -1,2 +1,5 @@
 # hello-word
-just for fun
+
+Hi humans !
+
+I like you
